@@ -27,7 +27,7 @@ This section describes how to install the plugin and get it working.
 4. Install.
 5. Activate through the 'Plugins' menu.
 
-If need more help please read this article for further assistance: http://wpfirstaid.com/2009/12/plugin-installation/
+If you need more help, please read this article for further assistance: http://wpfirstaid.com/2009/12/plugin-installation/
 
 == Frequently Asked Questions ==
 Q: What does this plugin do?
